@@ -1,0 +1,4 @@
+A final year project I made called "NET G: A network Monitoring tool". It's a python program created to monitor a network by:
+Scanning available devices connected to the network.
+Scanning for open ports to output and show the user the open ports that might be vulnerable.
+Extracting the operating system fingerprints of a selected device connected to the network.
