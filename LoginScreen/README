@@ -1,0 +1,8 @@
+A simple Hostel login Page using GUI for user protection and authentication purposes.
+You can login as a guest with just a view option to view the rooms available.
+OR
+You can login as an admin to view the rooms, modify the bookings, and remove rooms.
+Admin login:
+    username: admin
+    password: admin
+    
