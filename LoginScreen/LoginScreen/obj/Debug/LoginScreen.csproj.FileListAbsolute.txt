@@ -1,0 +1,23 @@
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojAssemblyReference.cache
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form3.resources
+C:\Users\ALI-A\Desktop\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form4.resources
