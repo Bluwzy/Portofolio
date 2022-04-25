@@ -1,0 +1,10 @@
+﻿  assignment.c
+d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(37): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(37): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(37): note: the missing variadic argument 2 is required by format string '%c'
+  d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(37): note: this argument is used as a buffer size
+d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(50): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(50): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(50): note: the missing variadic argument 2 is required by format string '%c'
+  d:\3ol\1st year\sem 2\adsc\assignment\assignment\assignment.c(50): note: this argument is used as a buffer size
+  ASSIGNMENT.vcxproj -> D:\3ol\1st Year\Sem 2\ADSC\ASSIGNMENT\Debug\ASSIGNMENT.exe
